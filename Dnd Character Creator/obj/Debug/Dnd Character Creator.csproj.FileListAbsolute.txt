@@ -1,0 +1,15 @@
+C:\Users\caleb\source\repos\Dnd Character Creator\Dnd Character Creator\bin\Debug\Dnd Character Creator.exe.config
+C:\Users\caleb\source\repos\Dnd Character Creator\Dnd Character Creator\bin\Debug\Dnd Character Creator.exe
+C:\Users\caleb\source\repos\Dnd Character Creator\Dnd Character Creator\bin\Debug\Dnd Character Creator.pdb
+C:\Users\caleb\source\repos\Dnd Character Creator\Dnd Character Creator\obj\Debug\Dnd Character Creator.csprojAssemblyReference.cache
+C:\Users\caleb\source\repos\Dnd Character Creator\Dnd Character Creator\obj\Debug\Dnd_Character_Creator.Form1.resources
+C:\Users\caleb\source\repos\Dnd Character Creator\Dnd Character Creator\obj\Debug\Dnd_Character_Creator.Properties.Resources.resources
+C:\Users\caleb\source\repos\Dnd Character Creator\Dnd Character Creator\obj\Debug\Dnd Character Creator.csproj.GenerateResource.cache
+C:\Users\caleb\source\repos\Dnd Character Creator\Dnd Character Creator\obj\Debug\Dnd Character Creator.csproj.CoreCompileInputs.cache
+C:\Users\caleb\source\repos\Dnd Character Creator\Dnd Character Creator\obj\Debug\Dnd Character Creator.exe
+C:\Users\caleb\source\repos\Dnd Character Creator\Dnd Character Creator\obj\Debug\Dnd Character Creator.pdb
+C:\Users\caleb\source\repos\Dnd Character Creator\Dnd Character Creator\bin\Debug\Dnd Character Creator.exe.manifest
+C:\Users\caleb\source\repos\Dnd Character Creator\Dnd Character Creator\bin\Debug\Dnd Character Creator.application
+C:\Users\caleb\source\repos\Dnd Character Creator\Dnd Character Creator\obj\Debug\Dnd Character Creator.exe.manifest
+C:\Users\caleb\source\repos\Dnd Character Creator\Dnd Character Creator\obj\Debug\Dnd Character Creator.application
+C:\Users\caleb\source\repos\Dnd Character Creator\Dnd Character Creator\obj\Debug\Dnd Character Creator.TrustInfo.xml
